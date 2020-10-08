@@ -2,7 +2,7 @@
 
 ## About
 
-The code accompanying our **ECML-PKDD 2020** paper ***Adaptive Momentum Coefficient for Neural Network Optimization*** (https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/RT/sub_1005.pdf).
+The code accompanying our **ECML-PKDD 2020** paper [***Adaptive Momentum Coefficient for Neural Network Optimization***](https://bitbucket.org/ghentdatascience/ecmlpkdd20-papers/raw/master/RT/sub_1005.pdf).
 
 ## Summary
 
