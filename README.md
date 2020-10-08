@@ -17,7 +17,7 @@ The code accompanying our **ECML-PKDD 2020** paper [***Adaptive Momentum Coeffic
 The repository contains the implementation of the **AMoC** optimizer along with the *Deep Autoencoder* experiments on the *MNIST* dataset included in the paper. 
 
 ### Hyperparameters
-Variables and hyperparameters including *learning rate*, *beta* and *momentum* can be modified in the scripts. 
+Variables and hyperparameters including *learning rate (&epsilon;)*, *beta (&beta;)* and *momentum (&mu;)* can be modified in the scripts. 
 
 ### Requirements
 The requirements are **Python 3.8**, **Pytorch 1.4.0** along with **CUDA 10.1** and **CuDNN 7.6.3**.
