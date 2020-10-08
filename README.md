@@ -10,7 +10,9 @@ The code accompanying our **ECML-PKDD 2020** paper [Adaptive Momentum Coefficien
 
 ## Contents
 
-The code contains the implementation of the **AMoC** optimizer along with the *Deep Autoencoder* experiments included in the paper. Variables and hyperparameters can be modified in the scripts. The requirements are **Python 3.8**, **Pytorch 1.4.0** along with **CUDA 10.1** and **CuDNN 7.6.3**.
+The code contains the implementation of the **AMoC** optimizer along with the *Deep Autoencoder* experiments included in the paper. 
+
+Variables and hyperparameters can be modified in the scripts. The requirements are **Python 3.8**, **Pytorch 1.4.0** along with **CUDA 10.1** and **CuDNN 7.6.3**.
 
 
 
