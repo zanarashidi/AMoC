@@ -213,11 +213,6 @@ if __name__ == "__main__":
                                     'betas' : betas,
                                     'epsilon' : epsilon,
                                     'seed': seed,
-                                    'stat_decay' : stat_decay,
-                                    'damping' : damping,
-                                    'kl_clip' : kl_clip,
-                                    'TCov' : TCov,
-                                    'TInv' : TInv,
                                     })
     dictinoary['values'] = []
     dictinoary['values'].append({'best_loss': best_loss,
